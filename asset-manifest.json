@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-math-game/static/css/main.346e068c.chunk.css",
+    "main.css": "/react-math-game/static/css/main.0e4484d3.chunk.css",
     "main.js": "/react-math-game/static/js/main.241dc768.chunk.js",
     "main.js.map": "/react-math-game/static/js/main.241dc768.chunk.js.map",
     "runtime-main.js": "/react-math-game/static/js/runtime-main.090c4778.js",
@@ -10,13 +10,13 @@
     "static/js/3.d8a226f2.chunk.js": "/react-math-game/static/js/3.d8a226f2.chunk.js",
     "static/js/3.d8a226f2.chunk.js.map": "/react-math-game/static/js/3.d8a226f2.chunk.js.map",
     "index.html": "/react-math-game/index.html",
-    "static/css/main.346e068c.chunk.css.map": "/react-math-game/static/css/main.346e068c.chunk.css.map",
+    "static/css/main.0e4484d3.chunk.css.map": "/react-math-game/static/css/main.0e4484d3.chunk.css.map",
     "static/js/2.675affe4.chunk.js.LICENSE.txt": "/react-math-game/static/js/2.675affe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.090c4778.js",
     "static/js/2.675affe4.chunk.js",
-    "static/css/main.346e068c.chunk.css",
+    "static/css/main.0e4484d3.chunk.css",
     "static/js/main.241dc768.chunk.js"
   ]
 }
