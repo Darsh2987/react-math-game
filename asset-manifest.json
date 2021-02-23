@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.346e068c.chunk.css",
-    "main.js": "/static/js/main.6897f452.chunk.js",
-    "main.js.map": "/static/js/main.6897f452.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5de3df90.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5de3df90.js.map",
-    "static/js/2.675affe4.chunk.js": "/static/js/2.675affe4.chunk.js",
-    "static/js/2.675affe4.chunk.js.map": "/static/js/2.675affe4.chunk.js.map",
-    "static/js/3.d8a226f2.chunk.js": "/static/js/3.d8a226f2.chunk.js",
-    "static/js/3.d8a226f2.chunk.js.map": "/static/js/3.d8a226f2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.346e068c.chunk.css.map": "/static/css/main.346e068c.chunk.css.map",
-    "static/js/2.675affe4.chunk.js.LICENSE.txt": "/static/js/2.675affe4.chunk.js.LICENSE.txt"
+    "main.css": "/react-math-game/static/css/main.346e068c.chunk.css",
+    "main.js": "/react-math-game/static/js/main.241dc768.chunk.js",
+    "main.js.map": "/react-math-game/static/js/main.241dc768.chunk.js.map",
+    "runtime-main.js": "/react-math-game/static/js/runtime-main.090c4778.js",
+    "runtime-main.js.map": "/react-math-game/static/js/runtime-main.090c4778.js.map",
+    "static/js/2.675affe4.chunk.js": "/react-math-game/static/js/2.675affe4.chunk.js",
+    "static/js/2.675affe4.chunk.js.map": "/react-math-game/static/js/2.675affe4.chunk.js.map",
+    "static/js/3.d8a226f2.chunk.js": "/react-math-game/static/js/3.d8a226f2.chunk.js",
+    "static/js/3.d8a226f2.chunk.js.map": "/react-math-game/static/js/3.d8a226f2.chunk.js.map",
+    "index.html": "/react-math-game/index.html",
+    "static/css/main.346e068c.chunk.css.map": "/react-math-game/static/css/main.346e068c.chunk.css.map",
+    "static/js/2.675affe4.chunk.js.LICENSE.txt": "/react-math-game/static/js/2.675affe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5de3df90.js",
+    "static/js/runtime-main.090c4778.js",
     "static/js/2.675affe4.chunk.js",
     "static/css/main.346e068c.chunk.css",
-    "static/js/main.6897f452.chunk.js"
+    "static/js/main.241dc768.chunk.js"
   ]
 }
