@@ -13,6 +13,7 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://darsh2987.github.io/react-math-game/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
